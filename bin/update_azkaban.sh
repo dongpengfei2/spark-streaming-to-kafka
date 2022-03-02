@@ -1,0 +1,1 @@
+zip -q -r ./spark-streaming-to-kafka.zip ./*
